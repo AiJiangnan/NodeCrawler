@@ -1,0 +1,15 @@
+{
+    "name": "nodescrapy",
+    "version": "1.0.0",
+    "description": "Node 爬虫",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "AiJiangnan",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "superagent": "^3.8.3"
+    }
+}
